@@ -29,6 +29,6 @@ public class A {
     }
 
     public void MA3(){
-        System.out.println("Alteração do programador anterior");
+        System.out.println("Alteração do programador");
     }
 }

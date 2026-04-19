@@ -11,5 +11,9 @@ public class D {
         return D2;
     }
 
+    public void MD3(){
+        System.out.println("MD3");
+    }
+
     
 }
